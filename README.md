@@ -1,6 +1,5 @@
-Payment Gateway Integration - https://shikha954.github.io/Payment-Gateway/
 
-Payment-Gateway-Integration
+Payment-Gateway-Integration - 
 
 Features
 A simple website where payment gateway is integrated.
